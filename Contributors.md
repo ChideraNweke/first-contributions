@@ -86,6 +86,7 @@ gulshan
 - [Meron_Endris](https://github.com/MeronMEndris)
 - [Arjit Kedia](https://github.com/combfreak45)
 - [Aditya Dhaduk] (https://github.com/Aditya2814)
+- [Nweke Chidera](https://github.com/ChideraNweke)
 - [Aarone George](https://github.com/AaroneGeorge)
 - [Adeola Ojekunle](https://github.com/adeola-code)
 - [Sandhya Kumari](https://github.com/Sandhya312)
